@@ -20,7 +20,7 @@ Daisy combines the power of advanced AI with user-friendly interfaces, making da
 
 
 🔍 **How to run Daisy on your local machine?**
-1. Clone the Daisy repository from [GitHub](https://github.com/your-daisy-repo-url).
+1. Clone the Daisy repository from [GitHub](git@github.com:A-dvika/Daisy-Automated-EDA.git).
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Run Daisy locally using Streamlit by executing `streamlit run app2.py`.
 4. Upload your CSV file and let Daisy illuminate your data! 🚀
